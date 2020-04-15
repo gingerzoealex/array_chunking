@@ -26,7 +26,7 @@ or for [HTTPS](https://help.github.com/en/github/using-git/which-remote-url-shou
 
 ___
 
-[math.floor]('https://docs.python.org/3/library/math.html') is used to round the modulo down to the nearest whole number, to error proof the function. 
+`math.floor` is used to round the modulo down to the nearest whole number, to error proof the function. More info on the `math` library [here]('https://docs.python.org/3/library/math.html').
 
 The modulo of `integer_n`, (the second argument) will be 0 if the number of items in `array` (the first argument) can be divided evenly.
 
